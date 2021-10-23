@@ -1,4 +1,4 @@
-### Hi, I'm [Mina Mikhail](https://shashank02051997.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🧔 💻
+### Hi, I'm Mina Mikhail<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🧔 💻
 
 
 ## :man_technologist: About Me
