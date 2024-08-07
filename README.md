@@ -7,7 +7,6 @@
 - 🚀 A Passionate Android Developer.
 - 🚀 UI/UX Designer.
 - :trophy: Kotlin Fan boy.
-- 🌱 I’m currently learning Compose and Kotlin Multi-platformer.<br />
 - ⚡ Fun fact: I'm spending 2 hours daily to learn new skills and technologies.
 - ⚡ Fun fact: I'm :man_technologist: at :moon:.
 
