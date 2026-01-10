@@ -90,10 +90,41 @@ Production-ready Android template with clean architecture and modern tech stack.
 ![Forks](https://img.shields.io/github/forks/Mina-Mikhail/Kotlin-Base-MVVM?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/Mina-Mikhail/Kotlin-Base-MVVM?style=flat-square)
 
+**Features:**
 - Clean Architecture with Domain, Data, Presentation layers
 - Navigation Component with multiple backstack support
 - Hilt dependency injection
+- Kotlin Coroutines and Flow with StateFlow
 - Git hooks for code quality automation
+
+**Tech Stack:** Kotlin, MVVM, Hilt, Coroutines, Flow, StateFlow, Retrofit, Navigation Component, DataBinding
+
+**Modules:** app, domain, data, presentation, appTutorial, actionChooser, prettyPopUp, imagesSlider
+
+---
+
+### 🔐 [Biometric-With-Crypto](https://github.com/Mina-Mikhail/Biometric-With-Crypto)
+Secure biometric authentication with Cipher encryption/decryption for sensitive data.
+
+![Stars](https://img.shields.io/github/stars/Mina-Mikhail/Biometric-With-Crypto?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Mina-Mikhail/Biometric-With-Crypto?style=flat-square)
+
+**Features:**
+- Biometric login with fingerprint/face authentication
+- AES encryption/decryption using Android Keystore
+- Secure storage of user credentials
+- Clean modular architecture
+
+**Tech Stack:** Kotlin, Biometric API, Android Keystore, Cipher, Hilt, Encrypted SharedPreferences
+
+**Modules:**
+- `biometricAuthentication` — Handles biometric prompt and authentication flow
+- `crypto` — Manages encryption and decryption operations
+- `prefs` — Encrypted SharedPreferences wrapper
+
+**Screens:** Splash (biometric login), Login (credential encryption), Home (user data display)
+
+📚 [Biometric Authentication Presentation](https://docs.google.com/presentation/d/14h8hKSx8B_J4Sw21PWJYL-qh0ae6B4W7W_I543sU2no/edit?usp=sharing)
 
 ---
 
@@ -101,34 +132,79 @@ Production-ready Android template with clean architecture and modern tech stack.
 Test data generation library for Android unit testing.
 
 ![Stars](https://img.shields.io/github/stars/Mina-Mikhail/kotlinFixture?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Mina-Mikhail/kotlinFixture?style=flat-square)
 
+**Features:**
+- Generate dummy values for any data class
+- Support for lists with configurable size
+- Easy customization with `.copy()` for specific test scenarios
+- Reduces boilerplate in unit tests
+
+**Usage:**
 ```kotlin
+// Generate single object
 val user = fixture<User>()
+
+// Generate list with specific size
 val users = fixtureList<User>(10)
-val customUser = fixture<User>().copy(name = "Test")
+
+// Override specific fields
+val customUser = fixture<User>().copy(name = "Test User")
 ```
 
----
-
-### 🔐 [Biometric-With-Crypto](https://github.com/Mina-Mikhail/Biometric-With-Crypto)
-Secure biometric authentication with Cipher encryption/decryption.
-
-![Stars](https://img.shields.io/github/stars/Mina-Mikhail/Biometric-With-Crypto?style=flat-square)
-
----
-
-### 🌐 [Network-Caching](https://github.com/Mina-Mikhail/Network-Caching)
-Cache-first strategy for API response caching to local storage.
+**Why use it:**
+- Eliminates hardcoded test data
+- Makes tests more readable
+- Catches business logic changes when combined with exact mocking
 
 ---
 
 ### ⚠️ [Network-Error-Handling](https://github.com/Mina-Mikhail/Network-Error-Handling)
 Retrofit adapters for handling API responses and exceptions in clean architecture.
 
+![Stars](https://img.shields.io/github/stars/Mina-Mikhail/Network-Error-Handling?style=flat-square)
+
+**Features:**
+- Custom Retrofit Call Adapter for unified error handling
+- Sealed class response wrapper for success/error states
+- Network exception handling without try-catch blocks
+- Clean separation between network and domain layers
+
+**Tech Stack:** Kotlin, Retrofit, OkHttp, Clean Architecture
+
+**Use Case:** Centralized API error handling that propagates errors through the architecture without exposing Retrofit exceptions to the domain layer.
+
 ---
 
 ### 📰 [News-App](https://github.com/Mina-Mikhail/News-App)
-Sample news application with Kotlin, Hilt, Coroutines, Room, and Retrofit.
+Sample news application demonstrating modern Android development practices.
+
+![Stars](https://img.shields.io/github/stars/Mina-Mikhail/News-App?style=flat-square)
+
+**Features:**
+- Fetch and display news articles from API
+- Local caching with Room for offline support
+- Image loading with Coil
+- Clean MVVM architecture
+
+**Tech Stack:** Kotlin, Hilt, Coroutines, Coil, Room, Retrofit, MVVM
+
+**Architecture:** Repository pattern with local database as single source of truth. API data is cached locally and served from Room database.
+
+---
+
+### 🌐 [Network-Caching](https://github.com/Mina-Mikhail/Network-Caching)
+Cache-first strategy for API response caching to local storage.
+
+![Stars](https://img.shields.io/github/stars/Mina-Mikhail/Network-Caching?style=flat-square)
+
+**Features:**
+- Cache-first data loading strategy
+- Automatic cache invalidation
+- Offline-first architecture
+- Seamless online/offline transitions
+
+**Use Case:** Apps that need to work reliably with intermittent network connectivity while keeping data fresh.
 
 ---
 
