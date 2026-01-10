@@ -1,40 +1,109 @@
-### Hi, I'm Mina Mikhail<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🧔 💻
+# 👋 Mina Mikhail
 
+**Principal Android Software Engineer**  
+📍 Egypt  
+📱 Android | Kotlin | Fintech | POS Systems | Digital Banking
 
-## :man_technologist: About Me
-<img align="right" height="170px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+---
 
-- 🚀 A Passionate Android Developer.
-- 🚀 UI/UX Designer.
-- :trophy: Kotlin Fan boy.
-- ⚡ Fun fact: I'm spending 2 hours daily to learn new skills and technologies.
-- ⚡ Fun fact: I'm :man_technologist: at :moon:.
+## 🚀 About Me
 
-## &#x1f4c8; GitHub Stats
+I am an Android engineer with **8+ years of hands-on experience** building production-grade mobile applications.
 
-<p align="center">
-<a href="https://github.com/Mina-Mikhail/Mina-Mikhail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina-Mikhail&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br />
-<br />
-<a href="https://github.com/Mina-Mikhail/Mina-Mikhail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mina-Mikhail&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mina's GitHub Stats" />
-</a>
-</p>
+My work focuses on **fintech**, **digital banking**, and **payment systems**, with deep experience in **POS terminals**, secure transactions, and high-availability apps.
 
-## :fire: Tech Stack
+I care about:
+- Clean architecture
+- Testable code
+- Performance under real constraints
+- Systems that fail safely
 
-<img align="left" alt="pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
-<img align="left" alt="pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
-<img align="left" alt="pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
-<img align="left" alt="pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-<br />
+I have worked on large-scale applications used by real users in real markets.
 
-## :man_technologist: About Me
-<img align="right" height="100px" alt="GIF" src="https://raw.githubusercontent.com/mohamedebrahim96/mohamedebrahim96.github.io/master/Social%20Media%20Icons/android.gif" />
+---
 
-- Sharing updates on <a href="https://www.linkedin.com/in/minasamirgerges/">LinkedIn</a> 💼
-<br>
+## 🏦 Professional Experience
+
+### **Onebank**
+**Principal Android Engineer**  
+Building Egypt’s first digital bank.
+
+- Modular Android architecture
+- Kotlin + Coroutines + Flow
+- Strong separation of features
+- Secure authentication and session handling
+- CI/CD with quality gates
+
+---
+
+### **Paymob**
+**Senior Android Engineer – Fintech & POS**
+
+- Developed Android apps for **POS payment terminals**
+- Worked on **card transactions**, **EMV**, and **secure flows**
+- Deployed apps used across **Egypt, Pakistan and Saudi Arabia**
+- Focused on stability, latency, and offline handling
+
+---
+
+## 🧠 Technical Stack
+
+### Android
+- Kotlin
+- Coroutines & Flow
+- Hilt (DI)
+- Navigation Component
+- ViewModel
+- Jetpack libraries
+
+### Architecture
+- Clean Architecture
+- MVVM
+- MVI
+- Modularization by feature
+- Strong domain separation
+
+### Testing & Quality
+- JUnit
+- Kover (coverage)
+- SonarQube
+- PR-based quality checks
+
+### CI/CD
+- GitHub
+- Jenkins
+- Automated builds
+- Unit tests on pull requests
+- Coverage reports and static analysis
+
+---
+
+## 📂 What You’ll Find Here
+
+This GitHub contains:
+- Android architecture experiments
+- Clean code samples
+- Fintech-oriented patterns
+- Real solutions to real problems
+
+Code here reflects **production thinking**, not tutorials.
+
+---
+
+## 📫 Contact
+
+- GitHub: [Mina-Mikhail](https://github.com/Mina-Mikhail)
+- LinkedIn: [Mina Mikhail](https://www.linkedin.com/in/minasamirgerges)
+
+---
+
+## ⚡ Personal Notes
+
+- Android is a long-term craft, not a trend
+- Fintech code must be boring and correct
+- Performance matters
+- Simplicity scales better than cleverness 🚫✨
+
+---
+
+**Always learning. Always shipping.**
