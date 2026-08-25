@@ -37,7 +37,7 @@ I spend 2 hours daily learning new technologies. Android is a long-term craft, n
 ## 🏢 Professional Experience
 
 ### 🏦 Onebank
-**Principal Android Engineer**
+**Android Technical Lead**
 
 Building Egypt's first digital bank.
 
