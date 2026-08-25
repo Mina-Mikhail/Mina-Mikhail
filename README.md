@@ -2,7 +2,7 @@
   
 # 👋 Mina Mikhail
 
-### 📱 Principal Android Engineer | 🏦 FinTech & Digital Banking | 💳 POS Systems
+### 📱 Android Technical Lead | 🏦 FinTech & Digital Banking | 💳 POS Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minasamirgerges/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mina-Mikhail)
@@ -10,7 +10,7 @@
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400"/>
 
-**8+ years building production-grade Android applications**
+**10+ years building production-grade Android applications**
 
 </div>
 
